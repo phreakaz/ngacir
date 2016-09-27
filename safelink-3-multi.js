@@ -22,10 +22,10 @@ if(a_to_vh==false)
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
 if(x=="1"){xxx="2015/08/tau-istilah-ngacir-dalam-dunia-maya-oke.html"}
-if(x=="2"){xxx="2016/09/kucing-putih-pendengaran-normal.html"}
-if(x=="3"){xxx="2016/09/pulsa-gratis-dengan.html"}
-if(x=="4"){xxx="2016/09/penghasilan-para-youtuber-indonesia.html"}
-if(x=="5"){xxx="2016/09/lebih-murah-booking-tiket-pesawat.html"}a_to_ve[i].href="http://ngaciryukgan.blogspot.com/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="2"){xxx="2016/09/lebih-murah-booking-tiket-pesawat.html"}
+if(x=="3"){xxx="2016/09/penghasilan-para-youtuber-indonesia.html"}
+if(x=="4"){xxx="2016/09/pulsa-gratis-dengan.html"}
+if(x=="5"){xxx="2016/09/kucing-putih-pendengaran-normal.html"}a_to_ve[i].href="http://ngaciryukgan.blogspot.com/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
